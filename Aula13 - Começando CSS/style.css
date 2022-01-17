@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body { 
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textos { 
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+}
+h1 { 
+    color: blue;
+}
+
+h2 { 
+    color: red;
+}
+p { 
+    text-align: justify;
+}
+
