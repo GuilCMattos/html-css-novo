@@ -1,2 +1,4 @@
 # html-css-novo
- O outro não deu certo
+ Curso de HTML5 e CSS3 do CursoemVideo
+
+ Estou aprendendo a criar sites com html e css. E agora vou gerenciar meus repositorios
